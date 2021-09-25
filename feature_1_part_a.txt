@@ -1,0 +1,2 @@
+esta es la parte a de la feature 1. 
+Vale, está ok. La mergeamos a la feature_1. 
